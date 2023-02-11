@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+}
+
+h1{
+    color: #13ba0d;
+    font-size: 65px;
+    font-weight:bold;
+    
+    text-shadow: 6px 6px 5px darkgreen;
+}
+body{
+    background-color: #abeba9;
+   font-family: 'Archivo Narrow', sans-serif;
+    color:#c1e3c4;
+}
